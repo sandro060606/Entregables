@@ -1,0 +1,21 @@
+id_usuario,producto,categoria,precio,cantidad,compra_total,fecha
+101,Portátil HP,Electrónica,1200.5,1,1200.5,2024-02-15
+102,Teléfono inteligente,Electrónica,850.99,1,850.99,2024-02-16
+103,Zapatillas Nike,Ropa,75.5,2,151.0,2024-02-17
+101,Ratón Logitech,Accesorios,25.0,1,25.0,2024-02-18
+104,Televisor LG,Electrónica,550.75,1,550.75,2024-02-18
+105,Mochila Adidas,Ropa,45.99,1,45.99,2024-02-19
+106,Auriculares JBL,Accesorios,35.0,1,35.0,2024-02-20
+107,Teclado Gamer,Accesorios,65.99,1,65.99,2024-02-21
+108,Computadora portátil Dell,Electrónica,1350.0,1,1350.0,2024-02-22
+109,Camiseta Nike,Ropa,30.0,2,60.0,2024-02-23
+110,Reloj inteligente,Electrónica,199.99,1,199.99,2024-02-24
+101,Tableta Samsung,Electrónica,499.99,1,499.99,2024-02-25
+102,Sudadera Puma,Ropa,55.0,1,55.0,2024-02-26
+103,"Monitor LG de 27""",Electrónica,300.0,1,300.0,2024-02-27
+104,Alfombrilla de ratón XXL,Accesorios,20.0,1,20.0,2024-02-28
+105,Bicicleta MTB,Deportes,750.0,1,750.0,2024-02-29
+106,Gimnasio Guantes,Deportes,25.0,2,50.0,2024-03-01
+107,iPhone 14,Electrónica,999.99,1,999.99,2024-03-02
+108,CARGADOR Rápido,Accesorios,18.99,1,18.99,2024-03-03
+109,Bicicleta BMX,Deportes,499.99,1,499.99,2024-03-04
